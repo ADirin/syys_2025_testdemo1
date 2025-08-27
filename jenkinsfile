@@ -24,7 +24,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/ADirin/DevOps_Demo_NA.git'
+                git branch: 'master', url: 'https://github.com/ADirin/syys_2025_testdemo1.git'
             }
         }
 
