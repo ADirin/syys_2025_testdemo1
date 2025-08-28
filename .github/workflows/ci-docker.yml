@@ -46,4 +46,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: amirdirin/syysdemo2:latest
+          tags: amirdirin/syysdemo3:latest
